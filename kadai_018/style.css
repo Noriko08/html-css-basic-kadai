@@ -1,9 +1,7 @@
 #top {
     width: 800px;
     background-color: #dcc9f4;
-    padding: 20px 0px 20px 0px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 20px auto;
     text-align: center;
 }
 .top-child {
@@ -15,10 +13,8 @@
 #middle {
     width: 800px;
     height: 800px;
-    margin: 20px 0px 20px 0px;
+    margin: 20px auto;
     background-color: #ffd9df;
-    margin-left: auto;
-    margin-right: auto;
     position: relative;
 }
 #middle-child01, #middle-child02, #middle-child03 {
@@ -46,8 +42,7 @@
 #bottom {
     width: 800px;
     height: 300px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     background-color: #87ceeb;
 }
 #bottom-child01, #bottom-child02, #bottom-child03 {
